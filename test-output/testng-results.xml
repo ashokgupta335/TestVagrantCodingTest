@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="176" started-at="2022-07-11T11:19:36Z" finished-at="2022-07-11T11:19:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="176" started-at="2022-07-11T11:19:36Z" finished-at="2022-07-11T11:19:36Z">
+      <class name="com.tv.ag.test.RCBTestCases">
+        <test-method status="PASS" signature="verifyForeignPlayersExistence()[pri:0, instance:com.tv.ag.test.RCBTestCases@1810399e]" name="verifyForeignPlayersExistence" duration-ms="54" started-at="2022-07-11T11:19:36Z" finished-at="2022-07-11T11:19:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForeignPlayersExistence -->
+        <test-method status="PASS" signature="verifyWicketKeeperExistence()[pri:0, instance:com.tv.ag.test.RCBTestCases@1810399e]" name="verifyWicketKeeperExistence" duration-ms="49" started-at="2022-07-11T11:19:36Z" finished-at="2022-07-11T11:19:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWicketKeeperExistence -->
+      </class> <!-- com.tv.ag.test.RCBTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
